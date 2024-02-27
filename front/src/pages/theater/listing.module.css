@@ -1,0 +1,9 @@
+.listing {
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #FFE9E9;
+    border-radius: 10px;
+    box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+    display: flex;
+  }

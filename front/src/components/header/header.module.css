@@ -1,0 +1,15 @@
+.header {
+    width: 100%;
+    height: 3.5em;
+    z-index: 1;
+    background-color: #FFC2D5;
+    display: flex;
+    align-items: center;
+    max-width: 100vw;
+  }
+
+.item {
+    margin: 0;
+    margin-left: 1.5em;
+    cursor: pointer;
+}

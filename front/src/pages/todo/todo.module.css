@@ -1,0 +1,10 @@
+.todo_page {
+    width: 100%;
+    min-height: calc(100vh - 3.5em);
+    background-color: #FFE2EB;
+}
+
+.title {
+    margin: 0;
+    padding: 1em;
+}

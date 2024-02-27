@@ -1,0 +1,48 @@
+/* .todo_item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+   }
+.text_complete {
+    color: #888;
+    text-decoration: line-through;
+   }
+
+.text_incomplete {
+    color: #888;
+   } */
+
+   .todo_item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ced4da;
+    margin-bottom: 10px;
+  }
+  
+  input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
+  button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #c82333;
+  }
+  
+  .text_complete {
+    color: #28a745;
+    text-decoration: line-through;
+  }
+  
+  .text_incomplete {
+    color: #6c757d;
+  }
